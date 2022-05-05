@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLRJOASQQNaFhLCddZk8uTjeZhb03pYFykOJofQBlG6xMjvp8FoPXROBa4d3A3raw5tVcMdSZ3R5QTD6loL/Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tina.li\\Desktop\\prog2\\Slutprjekt\\slutproject\\slutproject\\slutproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tina.li\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\tina.li\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
